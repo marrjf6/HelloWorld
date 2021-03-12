@@ -159,5 +159,6 @@ public class Lab03Assignment extends Application{
         stage.setScene(sn);
         stage.show();
         
+        
     }
 }
