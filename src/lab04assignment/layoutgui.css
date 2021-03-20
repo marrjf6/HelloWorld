@@ -1,0 +1,19 @@
+
+
+.mainFxmlClass {
+    -fx-background-color:black;
+    
+}
+
+Button{
+    
+    -fx-background-color:#686868;
+}
+
+.clearbtn1{
+    -fx-background-color:#ff7733;
+}
+
+.txtfld1{
+    -fx-background-color:#ffffff;
+}
